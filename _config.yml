@@ -1,0 +1,6 @@
+# Minimal GitHub Pages / Jekyll configuration. No theme, analytics or plugins.
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude:
+  - PUBLISHING.md
