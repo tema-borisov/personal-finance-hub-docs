@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Personal Finance Hub ActivoBank
+title: Personal Finance Hub
 ---
 
-# Personal Finance Hub ActivoBank
+# Personal Finance Hub
 
 Private, non-commercial account information tool for its owner's own accounts. No public sign-up or banking functions are available on this website.
 

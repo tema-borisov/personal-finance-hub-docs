@@ -5,14 +5,14 @@ title: Terms of Use
 
 # Terms of Use
 
-**Application:** Personal Finance Hub ActivoBank  
+**Application:** Personal Finance Hub  
 **Owner:** Artem Borisov  
 **Contact:** tema.gad@gmail.com  
 **Last updated:** 8 November 2026
 
 ## Purpose and permitted use
 
-Personal Finance Hub ActivoBank is a private, non-commercial tool operated by its owner solely to retrieve and store information about the owner's own bank accounts. It is not offered to other users or businesses.
+Personal Finance Hub is a private, non-commercial tool operated by its owner solely to retrieve and store information about the owner's own bank accounts. It is not offered to other users or businesses.
 
 The application uses Enable Banking for account information access, following the owner's explicit authorization through the provider and bank. The application does not initiate payments or transfers and does not collect or store bank login passwords.
 

@@ -5,7 +5,7 @@ title: Privacy Notice
 
 # Privacy Notice
 
-**Application:** Personal Finance Hub ActivoBank  
+**Application:** Personal Finance Hub  
 **Owner and privacy contact:** Artem Borisov, tema.gad@gmail.com  
 **Last updated:** 8 November 2026
 
